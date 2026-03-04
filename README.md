@@ -3,7 +3,7 @@
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jardson-l%C3%BAcio-peres-da-silva/)
 <a href="mailto:jardsonlucio01@gmail.com">  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
 
-![Jardson's GitHub stats]((https://streak-stats.demolab.com/?user=peresl)](https://git.io/streak-stats))
+![Jardson's GitHub stats]((https://streak-stats.demolab.com/?user=import-luci)](https://git.io/streak-stats))
 
 ## Tecnologias que utilizo no meu dia a dia 🧑🏻‍💻
 
