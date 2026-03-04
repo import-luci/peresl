@@ -3,7 +3,7 @@
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jardson-l%C3%BAcio-peres-da-silva/)
 <a href="mailto:jardsonlucio01@gmail.com">  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=import-luci&show_icons=true&theme=tokyonight)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=import-luci&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=import-luci&include_all_commits=true&theme=tokyonight)
 
 ## Tecnologias que utilizo no meu dia a dia:
 
